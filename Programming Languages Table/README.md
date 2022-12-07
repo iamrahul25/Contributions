@@ -1,5 +1,4 @@
-| Name     | Character 
-|
+| Name     | Character |
 | ---      | ---       |
 | Backtick | `         |
 | Pipe     | \|        |
